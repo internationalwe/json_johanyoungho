@@ -1,0 +1,2 @@
+model/model_do05-511.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+.java/cache/kr.bydelta/koalanlp-hnn/koalanlp-hnn-2.1.4 filter=lfs diff=lfs merge=lfs -text
